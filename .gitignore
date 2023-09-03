@@ -67,7 +67,5 @@ test.sqlite3
 # Ignore File
 public/images/
 
-# Do not include google cloud key
-firebase-key.json
 
 .idea
